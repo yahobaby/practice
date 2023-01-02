@@ -7,5 +7,5 @@ def parrot_trouble(talking, hour)
   end
 end
 
-# 呼び出し例 
+# 呼び出し例  
 parrot_trouble(true, 6)
